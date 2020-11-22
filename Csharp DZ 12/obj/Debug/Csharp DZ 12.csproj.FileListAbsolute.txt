@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Csharp DZ 12\Csharp DZ 12\bin\Debug\Csharp DZ 12.exe.config
+C:\Users\Hp\source\repos\Csharp DZ 12\Csharp DZ 12\bin\Debug\Csharp DZ 12.exe
+C:\Users\Hp\source\repos\Csharp DZ 12\Csharp DZ 12\bin\Debug\Csharp DZ 12.pdb
+C:\Users\Hp\source\repos\Csharp DZ 12\Csharp DZ 12\obj\Debug\Csharp DZ 12.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Csharp DZ 12\Csharp DZ 12\obj\Debug\Csharp DZ 12.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Csharp DZ 12\Csharp DZ 12\obj\Debug\Csharp DZ 12.exe
+C:\Users\Hp\source\repos\Csharp DZ 12\Csharp DZ 12\obj\Debug\Csharp DZ 12.pdb
